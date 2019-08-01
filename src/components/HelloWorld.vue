@@ -1,6 +1,6 @@
 <template>
   <v-container fluid>
-    <v-responsive :aspect-ratio="16/9">
+    <v-responsive>
       <v-layout align-center justify-space-around row>
         <v-flex xs6>
           <v-card class="item-large">
